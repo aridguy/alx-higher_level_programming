@@ -1,2 +1,5 @@
-# alx-higher_level_programming
-alx higher level programming (python)
+# alx-higher_level-programming
+This is the beginning of a higher level programming language (python)
+
+## Author
+Idowu Ariyo
